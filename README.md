@@ -15,6 +15,6 @@
          14.Finding relation between the pairs using Pair plot. 
          15.Data visualization: Histogram and Distribution line.
          16.Creating ecdf (empirical cumulative distribution function). 
-         17.Data visualization: Boxplot and Violinplot. 
+         17.Data visualization by Boxplot and Violinplot. 
          18.Exploratory Data Analysis (EDA) using groupby.
 
