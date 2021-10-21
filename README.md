@@ -7,7 +7,7 @@
          6.Writing functions in Python. 
          7.Data Visualization: Bar plot. 
          8.Changing the context of a plot.
-         9.Creating subplots.
+         9.Creating subplots 
          10.Setting a title, xlabel and ylabel of a plot. 
          11.Changing the range of x and y axis. 
          12.Rotating the x and y tick labels.
