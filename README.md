@@ -16,5 +16,5 @@
          15.Data visualization: Histogram and Distribution line
          16.Creating ecdf (empirical cumulative distribution function). 
          17.Data visualization by Boxplot and Violinplot. 
-         18.Exploratory Data Analysis (EDA) using groupby.
+         18.Exploratory Data Analysis (EDA) using groupby
 
