@@ -2,7 +2,7 @@
          1.Learning the Data Analysis Using numpy, pandas, matlotlib & seaborn
          2.Creating barplot & subplots.
          3.Finding the number of unique values present in the DataFrame 
-         4.Rounding the numeric values in a pandas column. 
+         4.Rounding the numeric values in a pandas column
          5.Changing the index of a DataFrame 
          6.Writing functions in Python. 
          7.Data Visualization: Bar plot. 
