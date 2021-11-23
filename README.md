@@ -11,7 +11,7 @@
          10.Setting a title, xlabel and ylabel of a plot 
          11.Changing the range of x and y axis. 
          12.Rotating the x and y tick labels.
-         13.Creating Scatter plot and Regression line. 
+         13.Creating Scatter plot and Regression line
          14.Finding relation between the pairs using Pair plot. 
          15.Data visualization: Histogram and Distribution line
          16.Creating ecdf (empirical cumulative distribution function). 
